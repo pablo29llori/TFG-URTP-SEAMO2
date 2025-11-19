@@ -21,7 +21,7 @@ Para ello se sigue el enfoque del paper de Christine Mumford (CEC 2013), adaptan
 Documento completo del Trabajo Fin de Grado, donde se desarrollan:  
 
 - La formulación del **URTP** como problema de optimización en redes.  
-- La base teórica en grafos y algoritmos de caminos mínimos.  
+- La base teórica de y algoritmos para optimización.  
 - La descripción de los objetivos **CP** (coste del pasajero) y **CO** (coste del operador).  
 - El resumen del enfoque propuesto en el artículo de Mumford (CEC 2013).  
 - El diseño detallado del algoritmo **SEAMO2** adaptado al URTP.  
