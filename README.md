@@ -94,11 +94,10 @@ Soy **Pablo Llorián González**, autor del Trabajo Fin de Grado y de la impleme
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Python** para la implementación del algoritmo SEAMO2.  
-- **Floyd–Warshall** para el cálculo de caminos mínimos en la red de tránsito.  
-- **Pandas / CSV** para el tratamiento de datos de nodos, enlaces y demanda.  
+- **Python** (random, heapq, collections, dataclasses, typing, networkx, matplotlib, seaborn).  
 - **LaTeX** para la redacción de la memoria del TFG.  
-- **GitHub** como repositorio y portfolio del proyecto.  
+- **GitHub** como plataforma de documentación y difusión del proyecto.
+
 
 ---
 
