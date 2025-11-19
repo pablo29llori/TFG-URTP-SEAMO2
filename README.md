@@ -103,5 +103,6 @@ Soy **Pablo Llorián González**, autor del Trabajo Fin de Grado y de la impleme
 
 ## 📅 Fecha
 
-DepósitO: 7 de noviembre de 2025.
+Depósito: 7 de noviembre de 2025.
+
 Defensa: 18 de noviembre de 2025.  
