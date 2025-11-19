@@ -1,7 +1,7 @@
 # 🚍 Trabajo Fin de Grado – El problema de diseño de rutas en el tránsito urbano.  
 ## Grado en Matemáticas – Universidad de Oviedo
 ## Autor: Pablo Llorián González
-## Defensa: 18 de noviembre de 2025.
+## Defensa: 18 de noviembre de 2025
 
 
 Este repositorio recoge el material principal de mi Trabajo Fin de Grado, titulado **“El problema de diseño de rutas en el tránsito urbano”**, en el que se estudia el **Urban Transit Routing Problem (URTP)** desde una perspectiva de optimización combinatoria y análisis multiobjetivo.  
@@ -15,9 +15,9 @@ Para ello se sigue el enfoque del paper de Christine Mumford (CEC 2013), adaptan
 
 ---
 
-## 📁 Contenido del repositorio.  
+## 📁 Contenido del repositorio
 
-### **1. Memoria del TFG.**  
+### **1. Memoria del TFG**  
 Documento completo del Trabajo Fin de Grado, donde se desarrollan:  
 
 - La formulación del **URTP** como problema de optimización en redes.  
@@ -34,7 +34,7 @@ Documento completo del Trabajo Fin de Grado, donde se desarrollan:
 
 ---
 
-### **2. Implementación del algoritmo SEAMO2 en Python.**  
+### **2. Implementación del algoritmo SEAMO2 en Python**  
 
 El archivo `seamo2.py` contiene una implementación completa del algoritmo **SEAMO2** para el URTP, siguiendo la estructura y el espíritu del artículo original:  
 
@@ -59,7 +59,7 @@ El script incluye además una **red de ejemplo pequeña** para comprobar que la 
 
 ---
 
-### **3. Conjuntos de datos.**  
+### **3. Conjuntos de datos**  
 
 En la carpeta `datos/` se incluyen dos redes de prueba, cada una descrita mediante tres ficheros `.csv` (nodos, arcos y demanda):  
 
@@ -79,7 +79,7 @@ Estos ficheros permiten reconstruir la red de transporte urbano y la demanda aso
 
 ---
 
-## 👤 Autor y contribución personal.  
+## 👤 Autor y contribución personal 
 
 Soy **Pablo Llorián González**, autor del Trabajo Fin de Grado y de la implementación en Python del algoritmo **SEAMO2** incluida en este repositorio. Mis principales contribuciones son:  
 
@@ -92,7 +92,7 @@ Soy **Pablo Llorián González**, autor del Trabajo Fin de Grado y de la impleme
 
 ---
 
-## 🛠️ Tecnologías utilizadas.  
+## 🛠️ Tecnologías utilizadas
 
 - **Python** para la implementación del algoritmo SEAMO2.  
 - **Floyd–Warshall** para el cálculo de caminos mínimos en la red de tránsito.  
@@ -102,6 +102,7 @@ Soy **Pablo Llorián González**, autor del Trabajo Fin de Grado y de la impleme
 
 ---
 
-## 📅 Fecha.  
+## 📅 Fecha
 
-Defensa del TFG: noviembre de 2024.  
+DepósitO: 7 de noviembre de 2025.
+Defensa: 18 de noviembre de 2025.  
