@@ -1,7 +1,7 @@
 # 🚍 Trabajo Fin de Grado – El problema de diseño de rutas en el tránsito urbano.  
 ## Grado en Matemáticas – Universidad de Oviedo
 ## Autor: Pablo Llorián González
-## Defensa: 18 de noviembre de 2025
+## 18 de noviembre de 2025
 
 
 Este repositorio recoge el material principal de mi Trabajo Fin de Grado, titulado **“El problema de diseño de rutas en el tránsito urbano”**, en el que se estudia el **Urban Transit Routing Problem (URTP)** desde una perspectiva de optimización combinatoria y análisis multiobjetivo.  
