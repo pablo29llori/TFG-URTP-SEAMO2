@@ -11,7 +11,7 @@ El objetivo es diseñar un conjunto de rutas de transporte urbano que dé servic
 - **Coste del operador (CO)**: longitud total de las rutas.  
 - **Coste del pasajero (CP)**: tiempo medio de viaje, incluyendo transbordos y penalizaciones asociadas.  
 
-Para ello se sigue el enfoque del paper de Christine Mumford (CEC 2013), adaptando e implementando el algoritmo evolutivo **SEAMO2** y aplicándolo sobre diferentes redes de prueba.  
+Para ello se sigue el enfoque del paper de Christine Mumford (CEC 2013), adaptando e implementando el algoritmo evolutivo **SEAMO2** y aplicándolo sobre diferentes redes de transporte de prueba.  
 
 ---
 
