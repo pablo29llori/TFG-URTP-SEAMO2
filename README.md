@@ -9,9 +9,9 @@ Este repositorio recoge el material principal de mi Trabajo Fin de Grado, titula
 El objetivo es diseñar un conjunto de rutas de transporte urbano que dé servicio a una red de nodos (paradas), equilibrando el compromiso entre:  
 
 - **Coste del operador (CO)**: longitud total de las rutas.  
-- **Coste del pasajero (CP)**: tiempo medio de viaje, incluyendo transbordos y penalizaciones asociadas.  
+- **Coste del pasajero (CP)**: tiempo medio de viaje de todos los pasajeros, incluyendo transbordos y penalizaciones asociadas.  
 
-Para ello se sigue el enfoque del paper de Christine Mumford (CEC 2013), adaptando e implementando el algoritmo evolutivo **SEAMO2** y aplicándolo sobre diferentes redes de transporte de prueba.  
+Para ello se sigue el enfoque del paper de Christine Mumford (New Heuristic and Evolutionary Operators for the Multi-Objective Urban Transit Routing Problem), adaptando e implementando el algoritmo evolutivo **SEAMO2** y aplicándolo sobre diferentes redes de transporte de prueba.  
 
 ---
 
@@ -20,8 +20,8 @@ Para ello se sigue el enfoque del paper de Christine Mumford (CEC 2013), adaptan
 ### **1. Memoria del TFG**  
 Documento completo del Trabajo Fin de Grado, donde se desarrollan:  
 
-- La formulación del **URTP** como problema de optimización en redes.  
 - La base teórica de y algoritmos para optimización.  
+- La formulación del **URTP** como problema de optimización en redes.  
 - La descripción de los objetivos **CP** (coste del pasajero) y **CO** (coste del operador).  
 - El resumen del enfoque propuesto en el artículo de Mumford (CEC 2013).  
 - El diseño detallado del algoritmo **SEAMO2** adaptado al URTP.  
