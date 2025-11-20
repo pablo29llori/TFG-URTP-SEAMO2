@@ -1,4 +1,4 @@
-# 🚍 Trabajo Fin de Grado – El problema de diseño de rutas en el tránsito urbano.  
+# 🚍 Trabajo Fin de Grado – El problema de diseño de rutas en el tránsito urbano
 ## Grado en Matemáticas – Universidad de Oviedo
 ## Autor: Pablo Llorián González
 ## 18 de noviembre de 2025
